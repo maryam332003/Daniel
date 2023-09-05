@@ -38,6 +38,9 @@ nav {
     line-height: 20px;
     position:relative;
 }
+.navbar-toggler span{
+    color: whit !important;
+}
 .navbar .navbar-nav > li > a:after {
     content: "";
     width: 0;
